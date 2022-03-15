@@ -1,0 +1,65 @@
+body {
+  background-color: powderblue
+  font-family: 'Indie Flower', cursive;
+}
+h1 {
+  font-family: 'Indie Flower', cursive;
+}
+p {
+  font-family: 'Indie Flower', cursive;
+}
+h2 {
+  font-family: 'Indie Flower', cursive;
+}
+h3 {
+  font-family: 'Indie Flower', cursive;
+}
+h4 {
+  font-family: 'Indie Flower', cursive;
+}
+h5 {
+  font-family: 'Indie Flower', cursive;
+}
+
+a:link {
+  color: pink;
+  background-color: transparent;
+  text-decoration: none;
+  font-family: 'Indie Flower', cursive;
+}
+a:visited {
+  color: #FFD700;
+  background-color: transparent;
+  text-decoration: none;
+  font-family: 'Indie Flower', cursive;
+}
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+  font-family: 'Indie Flower', cursive;
+}
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+  font-family: 'Indie Flower', cursive;
+}
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap" rel="stylesheet">
+
+nav {
+  float: center;
+  width: 30%;
+  background: #FFD700;
+  padding: 20px;
+}
+
+header{
+  background-color: black;
+  padding: 30px;
+  text-align: center;
+  font-size: 35;
+  color: white
+}
