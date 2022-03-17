@@ -1,58 +1,59 @@
 body {
   background-color: powderblue
-  font-family: 'Indie Flower', cursive;
+  font-family: 'Patrick Hand', cursive;
 }
 h1 {
-  font-family: 'Indie Flower', cursive;
+  font-family: 'Patrick Hand', cursive;
 }
 p {
-  font-family: 'Indie Flower', cursive;
+  font-family: 'Patrick Hand', cursive;
 }
 h2 {
-  font-family: 'Indie Flower', cursive;
+  font-family: 'Patrick Hand', cursive;
 }
 h3 {
-  font-family: 'Indie Flower', cursive;
+  font-family: 'Patrick Hand', cursive;
+  align: center
 }
 h4 {
-  font-family: 'Indie Flower', cursive;
+  font-family: 'Patrick Hand', cursive;
+  font-size: 150%
 }
 h5 {
-  font-family: 'Indie Flower', cursive;
+  font-family: 'Patrick Hand', cursive;
 }
 
 a:link {
-  color: pink;
+  color: grey;
   background-color: transparent;
   text-decoration: none;
-  font-family: 'Indie Flower', cursive;
+  font-family: 'Patrick Hand', cursive;
 }
 a:visited {
   color: #FFD700;
   background-color: transparent;
   text-decoration: none;
-  font-family: 'Indie Flower', cursive;
+  font-family: 'Patrick Hand', cursive;
 }
 a:hover {
   color: red;
   background-color: transparent;
   text-decoration: underline;
-  font-family: 'Indie Flower', cursive;
+  font-family: 'Patrick Hand', cursive;
 }
 a:active {
   color: yellow;
   background-color: transparent;
   text-decoration: underline;
-  font-family: 'Indie Flower', cursive;
+  font-family: 'Patrick Hand', cursive;
 }
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap" rel="stylesheet">
 
-nav {
+article {
   float: center;
-  width: 30%;
-  background: #FFD700;
+  width: 40%;
   padding: 20px;
 }
 
